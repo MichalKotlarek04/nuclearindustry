@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f1201a48
 license: GPL-2.0
+name: nuclearindustry
 type: industry
+url: https://github.com/MichalKotlarek04/nuclearindustry
 version: 6
